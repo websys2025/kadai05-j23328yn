@@ -14,6 +14,8 @@
     - {"weather":[{"main":"Clear","description":"晴天"}],"main":{"temp":26.5,"humidity":52,"pressure":1012},"wind":{"speed":3.1},"name":"Tokyo"}
 ### Q3-3. 感想
 * 今回の課題で苦労したこと
+    - APIのパラメータ指定やキーの取得に苦労した
+* 演習を通して理解できたこと
 * 演習を通して理解できたこと
     - HTTP通信の仕組みやJSON形式のデータの扱い方
 * Web APIの利便性や課題など
